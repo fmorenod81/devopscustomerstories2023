@@ -6,10 +6,6 @@ https://epa.ms/23B8qn
 
 by:
 
-Francisco Moreno
+Francisco Moreno       /       francisco_moreno@epam.com
 
-francisco_moreno@epam.com
-
-Carlos Ribon
-
-carlos.ribon@oracle.com
+Carlos Ribon           /       carlos.ribon@oracle.com
